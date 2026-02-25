@@ -18,7 +18,7 @@
             <div class="col-12">
                 <div class="card border-0 shadow-sm">
                     <div class="card-body text-center py-5">
-                        <h1 class="display-4 fw-bold text-primary">TEST GITHUB PROJECT</h1>
+                        <h1 class="display-4 fw-bold text-primary">TEST GITHUB PROJECT LARAVELL</h1>
                     </div>
                 </div>
             </div>
